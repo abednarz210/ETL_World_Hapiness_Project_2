@@ -1,5 +1,3 @@
-# ETL_World_Hapiness_Project_2- UTSA Data Visualization Bootcamp 
-
 # ETL Project 2: Extract, Transform and Load 
 
 ## Finding Your Happy Place! 
