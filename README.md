@@ -1,4 +1,4 @@
-# ETL_World_Hapiness_Project_2
+# ETL_World_Hapiness_Project_2- UTSA Data Visualization Bootcamp 
 
 # ETL Project 2: Extract, Transform and Load 
 
@@ -70,3 +70,8 @@ The final relational database was created using Jupyter Notebook and PgAdmin Pos
 
 
 ![image](https://raw.githubusercontent.com/michelleherman13/world-happiness/main/Resources/Database_output.png)
+
+
+Group Project Contributing Members:  Amy Bednarz, Michelle Herman and Felecia Helms 
+
+
